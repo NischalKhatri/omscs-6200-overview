@@ -51,9 +51,9 @@ Extended the single-threaded GetFile server to support multiple concurrent clien
 
 - Name: Nick Khatri
 - Email: nischalkhatri12@gmail.com
-- LinkedIn: [Nischal Khatri]([http://example.com](https://www.linkedin.com/in/nischalkhatri/))
+- LinkedIn: [Nischal Khatri](https://www.linkedin.com/in/nischalkhatri/))
 
 
 ## Original Repository
 - The original project repository is private, since this project was built as part of a class, but I am happy to share it for interview purposes. 
-- You can find the original project [GIOS-PR1](https://github.gatech.edu/gios-spr-24/nkhatri30-pr1). Please reach out to me via email if you would like to access the full repository.
+- You can find the original project [GIOS-PR1](https://github.com/NischalKhatri/omscs-gios-pr1). Please reach out to me via email if you would like to access the full repository.
