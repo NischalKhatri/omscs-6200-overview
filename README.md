@@ -46,14 +46,6 @@ Extended the single-threaded GetFile server to support multiple concurrent clien
 - **File Transfer**: Efficiently transfers files between server and client using sockets.
 - **Custom Protocol**: Implements a custom, HTTP-like protocol for file requests and responses.
 
-## Key Features
-- For further details, questions, or to request access to the project repository, please contact:
-
-- Name: Nick Khatri
-- Email: nischalkhatri12@gmail.com
-- LinkedIn: [Nick Khatri](https://www.linkedin.com/in/nischalkhatri/)
-
-
 ## Original Repository
 - The original project repository is private, since this project was built as part of a class, but I am happy to share it for interview purposes. 
 - You can find the original project [GIOS-PR1](https://github.com/NischalKhatri/omscs-gios-pr1). Please reach out to me via email if you would like to access the full repository.
