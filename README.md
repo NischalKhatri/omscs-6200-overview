@@ -51,7 +51,7 @@ Extended the single-threaded GetFile server to support multiple concurrent clien
 
 - Name: Nick Khatri
 - Email: nischalkhatri12@gmail.com
-- LinkedIn: [Nischal Khatri](https://www.linkedin.com/in/nischalkhatri/))
+- LinkedIn: [Nick Khatri](https://www.linkedin.com/in/nischalkhatri/)
 
 
 ## Original Repository
